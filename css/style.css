@@ -87,7 +87,7 @@ div.horizontal-scrollbar {
 }
 
 .container-styling {
-  margin-top: -35vh;
+  margin-top: -30vh;
   -webkit-flex-shrink: 0;
       -ms-flex-negative: 0;
           flex-shrink: 0;
